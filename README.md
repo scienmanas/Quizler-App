@@ -29,7 +29,7 @@ Before running the Quizler App, make sure you have the following installed:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-   git clone https://github.com/scienmanas/Quizler-App.git
+git clone https://github.com/scienmanas/Quizler-App.git
  ```
 
 Navigate to the project directory:
