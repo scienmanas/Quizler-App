@@ -40,8 +40,8 @@ cd Quizler-App
 ## Usage
 1. Open the main.py file using a text editor.
 2. Review and customize the code if needed.
-
-3. Run the script:
+3. Change the relative position of true.png and false.png file in lines 30 and 34 in ui.py file if you get an error
+4. Run the script:
 ```bash
 python main.py
 ```
